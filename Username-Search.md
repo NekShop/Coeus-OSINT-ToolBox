@@ -41,20 +41,23 @@ Below is a list of username search links along with a brief description of their
 13. **[namecheckr.com](https://www.namecheckr.com/)**  
     - Allows users to check the availability of usernames on various platforms and domains.
 
-14. **[discord.id/](https://discord.id/)**  
+14.  **[VaultCord.com](https://vaultcord.com/tools/discord-id-lookup)**
+    - Discord profile lookup using user ID. Save avatar decorations, profile picture, and username effects.
+   
+15. **[discord.id/](https://discord.id/)**  
     - Offers Discord username-related services, possibly including username lookup and analysis.
 
-15. **[snowsta.mp/](https://snowsta.mp/)**  
+16. **[snowsta.mp/](https://snowsta.mp/)**  
     - Provides services related to usernames on social media platforms, potentially including username search and analysis.
 
-16. **[pixwox.com/profile/](https://www.pixwox.com/profile/)**  
+17. **[pixwox.com/profile/](https://www.pixwox.com/profile/)**  
     - Offers services related to searching for profiles, potentially including username search and profile analysis.
 
-17. **[imginn.com/tagged/{query}](https://imginn.com/tagged/{query})**  
+18. **[imginn.com/tagged/{query}](https://imginn.com/tagged/{query})**  
     - Allows users to search for images based on a query, potentially including username-related searches.
 
-18. **[picuki.com/profile/](https://www.picuki.com/profile/)**  
+19. **[picuki.com/profile/](https://www.picuki.com/profile/)**  
     - Offers services related to searching for profiles, potentially including username search and profile analysis.
 
-19. **[glavbukh.ru/forum/member.php/?username=](https://www.glavbukh.ru/forum/member.php/?username=)**  
+20. **[glavbukh.ru/forum/member.php/?username=](https://www.glavbukh.ru/forum/member.php/?username=)**  
     - Provides forum member search functionality based on usernames, allowing users to find members of a forum based on their usernames.
